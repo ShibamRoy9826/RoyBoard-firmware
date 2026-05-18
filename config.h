@@ -6,3 +6,5 @@
 
 #define BOOTMAGIC_ROW 0
 #define BOOTMAGIC_COLUMN 0
+
+#define TAPPING_TOGGLE 2
